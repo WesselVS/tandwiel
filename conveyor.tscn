@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ua0xcqsu1wlw"]
+
+[ext_resource type="Texture2D" uid="uid://dqke1janom3og" path="res://conveyor.png" id="1_fxd5n"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_fxd5n")
